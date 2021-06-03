@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse between Cap. Kiffin, and Dr. Chamberlain, about imposition of hands.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87715</idno><idno type="EEBO-CITATION">99866039</idno>
+  <idno type="VID">118299</idno>
+  <idno type="EEBO-PROQUEST">2240921871</idno>
+  
+            <idno type="STC">Wing K424</idno>
+            <idno type="STC">Thomason E735_4</idno>
+            <idno type="STC">ESTC R206958</idno>
+            <idno type="PROQUEST">99866039</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866039e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118299)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E735[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse between Cap. Kiffin, and Dr. Chamberlain, about imposition of hands.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+                  <author>Kiffin, William, 1616-1701.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>at the request of a friend.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>John Perry, in his Some short animadversions (Wing P1650), ascribes authorship of this to Chamberlen.</note>
+                  <note>Annotation on Thomason copy: "May [ye] 9:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Imposition of hands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118299:1"/>
+            <p>A DISCOVRSE Between Cap. <hi>Kiffin,</hi> and Dr. <hi>Chamberlain,</hi> ABOUT Imposition of Hands.</p>
+            <q>
+               <bibl>
+                  <hi>Acts 19.9, 10.</hi>
+               </bibl>
+               <p>But when divers were hardned, and beleeved not, but spake evil of that way before the multitude, he departed from them, and sepa<g ref="char:EOLhyphen"/>rated the Disciples, disputing daily in the School of one <hi>Ty<g ref="char:EOLhyphen"/>rannus.</hi>
+               </p>
+               <p>And this continued by the space of two years, so that all they which dwelt in <hi>Asia,</hi> heard the word of the Lord Jesus, both <hi>Jews</hi> and <hi>Greeks.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Tim. 4.14.</hi>
+               </bibl>
+               <p>Neglect not the gift that is in thee, which was given thee by Pro<g ref="char:EOLhyphen"/>phesie, with the laying on of the hands of the Presbytery.</p>
+            </q>
+            <p>Printed at <hi>London</hi> at the request of a Friend. 1654.</p>
+         </div>
+         <div type="letters">
+            <pb facs="tcp:118299:2"/>
+            <pb facs="tcp:118299:2"/>
+            <div type="letter">
+               <head>To my dear Friend, <hi>Captain Kiffin.</hi>
+               </head>
+               <opener>
+                  <salute>SIR:</salute>
+               </opener>
+               <p>FOrasmuch as my unfeigned Zeal is to win you, and those with you, into the Truth, it is necessary for me to beat you out of all those Holds that would detain you from the Truth; I have therefore published your last Letter with the rest, that you may see I have expunged whatsoever might seem to reflect on you necessarily, that finding me to depart from those Advantages, I might gain somewhat upon your Affections, as well as Judgement. 2. That your Friends, yea all the friends of Truth, may see; that I have not published this Discourse without giving you first a full view of it. And 3. That it may appear you have no more to say of conse<g ref="char:EOLhyphen"/>quence in this matter; for though you write, that without any great diffi<g ref="char:EOLhyphen"/>culty, my Reply might receive an Answer, yet it is evident, that that an<g ref="char:EOLhyphen"/>swer would not avail any thing, else you would not neglect what might be done without any great difficulty; and having desired the amendment of your own Discourse in three places, <hi>A. B. C.</hi> (which I have done toge<g ref="char:EOLhyphen"/>ther with my Answer, so much as to make it pertinent to that alteration) it is manifest you had nothing else of greater importance to be alleged, or added, so that I hope you will herein finde your desire, to wit, of truth <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o appear, that God may be glorified in yours and others obedience, through Jesus Christ. <hi>Amen.</hi>
+               </p>
+               <p>It may be all that you would have expunged is not, for even that alte<g ref="char:EOLhyphen"/>ration which is, was so troublesome to the Presse, and did so disorder the pointing, that it gave the delay of about two weeks, beside the trouble of severall correctings, and alterings of the Form.</p>
+               <closer>
+                  <dateline>
+                     <hi>London,</hi>
+                     <date>
+                        <hi>the fourteenth of March,</hi> 1653.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>Doctor Chamberlain,</salute>
+               </opener>
+               <p>HAving taken a full view of the Discourse in writing sent to me, I do indeed see so much satisfaction to my self in what is said, that although without any great difficulty your Reply may receive an An<g ref="char:EOLhyphen"/>swer, yet am I very willing the thing should stand as it doth, only as touching the Introduction into the Discourse, I think there is much re<g ref="char:EOLhyphen"/>flection not necessary; also in the beginning of it, there is left out the substance of my Answer to you, therefore only request the favour that these in the Paper may be added, where I have marked them by the
+<pb facs="tcp:118299:3"/> Letters, <hi>A. B. C.</hi> desiring nothing more, than Truth may be made ap<g ref="char:EOLhyphen"/>pear, that God may be glorified by Jesus Christ, amongst all that pro<g ref="char:EOLhyphen"/>fesse his fear.</p>
+               <closer>
+                  <signed>Yours <hi>William Kiffin.</hi>
+                  </signed>
+                  <dateline>
+                     <date>
+                        <hi>March 14. 1653.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR:</salute>
+               </opener>
+               <p>FOrasmuch as God gave you the grace to professe the Gospel of Jesus Christ before me, I would gladly therefore that in all things you might have the preheminence; to which end I have sent you the re<g ref="char:EOLhyphen"/>view of the Conference that was between us, that upon a mature conside<g ref="char:EOLhyphen"/>ration you might leave the Consultations with Flesh and Blood, and free<g ref="char:EOLhyphen"/>ly offer your self in obedience to this Command of Jesus Christ, as a means to make further progresse in all the Commands of the Lord, that you may certainly know that you know him, 1 <hi>Jo.</hi> 2.3. The Lord grant once that the Saints may be of one minde, to speak and do the same thing, that the unfruitfull works of Darknesse may be abolished, and Christ a<g ref="char:EOLhyphen"/>lone exalted in all Sovereignty. <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <hi>Your loving Friend to serve you in the Lord:</hi>
+                     <lb/> Peter Chamberlain.</signed>
+               </closer>
+               <postscript>
+                  <p>The reason it comes so late to your hands is, First, I hoped you would have thought so upon the Work, as to have desired another Meeting. Se<g ref="char:EOLhyphen"/>condly, The time it took in writing over; and Thirdly, That it might be consulted with by others. Now it is yet from the Presse, sent to you in private, that (if possible) your conviction might frustrate the Impression; when you have read it I pray send it back; if you, and some with you sub<g ref="char:EOLhyphen"/>mit not to this Principle, there is a necessity of publishing it in Print, that the untruths which I hear are spread abroad concerning the same, may be silenced.</p>
+               </postscript>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:118299:3"/>
+            <head>A Discourse between Capt. <hi>Kiffin</hi> and Dr. <hi>Chamberlain,</hi> about Imposition of Hands.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Monday</hi> 21. <hi>Novemb.</hi> 1653.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">D</seg>R. <hi>Chamberlain</hi> and the Brethren at Mr. <hi>Mores</hi> in <hi>Lothbury</hi> was invited by Mr. <hi>Willis</hi> and others on the first day (being 6. <hi>Novemb.</hi> 1653.) to be the fift day following (being Thursday 10. <hi>Novem.</hi>) at the Glasse-house, to assist a Dispute between some of the Con<g ref="char:EOLhyphen"/>gregation meeting with Capt. <hi>Kiffin,</hi> and himself, about Imposition of hands. But the day being come Capt. <hi>Kiffin</hi> had put off the Dispute slightly, upon Mr. <hi>Tomlinsons</hi> not appearing, and every one was now depart<g ref="char:EOLhyphen"/>ing much unsatisfied; when at the instant Dr. <hi>Chamberlain</hi> came in, and being told what had happened, he desired to speak a word, and finding it likely to be put off when the subject where<g ref="char:EOLhyphen"/>on he would discourse was known, he ingaged them by the E<g ref="char:EOLhyphen"/>pilogue of the Confession of the seven Churches to make good their solemn Protestation there to the whole world, that they should be ready to hear and imbrace any further truth that could be offered by any, <hi>&amp;c.</hi>
+               <note n="*" place="margin">And the ex<g ref="char:EOLhyphen"/>cuses offered being taken off by the re<g ref="char:EOLhyphen"/>semblance to the Presbyte<g ref="char:EOLhyphen"/>rians evasions of the d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>spute of Baptism.</note> and calling them to mind how once Bap<g ref="char:EOLhyphen"/>tism was sleighted by our selves, and yet by the Presbyterians; and Cap. <hi>Kiffins</hi> excuses being the very same for hands, as the Presbyters
+<pb n="2" facs="tcp:118299:4"/> to evade the Disputes of Baptism, whereof being publickly convin<g ref="char:EOLhyphen"/>ced, Cap. <hi>Kiffin</hi> promised to meet next Monday seven night at Dr. <hi>Chamberlains</hi> about it (being 21. <hi>Novemb.</hi> 1653.) where accord<g ref="char:EOLhyphen"/>ingly the meeting was, and Cap. <hi>Kiffin</hi> took occasion from a book presented him by Mr. <hi>Spittlehouse</hi> on Thursday before, to raise his Discourse, saying, he was engaged to answer that book, and so continued an uninterrupted Discourse of about an hour and half. And having done his Discourse, and offered his Arguments a<g ref="char:EOLhyphen"/>gainst Imposition of Hands, and the Practisers, Dr. <hi>Chamberlain,</hi> after some pause, stood up, supposing he should have the like liberty of discourse without interruption, and began after this manner.</p>
+            <p>
+               <hi>Sir,</hi> I have patiently waited your Discourse, and hope you will have the same patience towards me as I have had towards you; and though it doth not so particularly concern me to re<g ref="char:EOLhyphen"/>ply to what you have said concerning the Book, Yet I shall indea<g ref="char:EOLhyphen"/>vor somewhat, as also to your Arguments.</p>
+            <p>And in the first place I will undertake to shew you that the very same Arguments which you have used, are and may be made use of by those that oppose Baptism.</p>
+            <p>Secondly, The same Arguments will be like Cannons turned upon your own selves, for non-obedience.</p>
+            <p>And thirdly, I shal prove that you have wrested most of those Scriptures.</p>
+            <p>Hereupon Dr. <hi>Chamberlain</hi> was interrupted, and Capt. <hi>Kiffin,</hi> and others said, that all that Capt. <hi>Kiffin</hi> was ingaged to, was to answer that book, to which he was challenged. Dr. <hi>Cham<g ref="char:EOLhyphen"/>berlain</hi> said he understood not so much, but howsoever Dr. <hi>Cham<g ref="char:EOLhyphen"/>berlain</hi> desired to proceed from what had been spoken. And so be<g ref="char:EOLhyphen"/>gan to observe, that the Captain did not ingage himself to what Mr. <hi>Oates</hi> is said in the book to affirm, that the doctrine of Im<g ref="char:EOLhyphen"/>position of Hands belongs not to all; for he did beleeve it did belong unto all, and that he offered to prove from what went before, and what followed in the Text, for <hi>Heb.</hi> 6.1. not laying a<g ref="char:EOLhyphen"/>gain the foundations, imported it was once a thing done, and they must leave it to go to perfection. For else, (V. 7. 8.) the earth that bringeth forth thorns is nigh cursing, had no application. For the Apostles purpose is to exalt Christ, and bring the <hi>Hebrews</hi> above
+<pb n="3" facs="tcp:118299:4"/> their doating on works to a higher pitch of contemplation, <hi>Heb.</hi> 5.12. and 6.4. Now therefore the doctrine onely is here prest upon, and not practice, because that was already done. There<g ref="char:EOLhyphen"/>fore note how Capt. <hi>Kiffin</hi> doth here acknowledge the Imposi<g ref="char:EOLhyphen"/>tion of hands on all. But Captain <hi>Kiffin</hi> and his company inter<g ref="char:EOLhyphen"/>rupted Dr. <hi>Chamberlain</hi> his proceedings with many interruptions, and said, he had mistaken Capt. <hi>Kiffin;</hi> whereupon after severall complaints of interruption, and that upon pretence of mistake of what was said, Dr. <hi>Chamberlain</hi> desired then that Capt. <hi>Kiffin</hi> would write down himselfe what he said, and then appoint a time and place where Dr. <hi>Chamberlain</hi> might give him an an<g ref="char:EOLhyphen"/>swer to what he had so written, which (with some difficulty) was concluded to be on Friday following for the writing to be sent to Dr. <hi>Chamberlain</hi> about one of the clock, and Monday next (28. <hi>Novemb.</hi> 1653.) to have the meeting at the place and hour as formerly appointed (at Dr. <hi>Chamberlains</hi> in <hi>White Fryers,</hi> at one in the afternoon) and then Dr. <hi>Chamberlain</hi> should have liberty without interruption to make answer, delivering the same al<g ref="char:EOLhyphen"/>so in writing, and so the company were departing.</p>
+            <p>But divers willing to improve the time, and desiring Dr. <hi>Chamberlain</hi> they should not so depart unsatisfied, The Dr. began <hi>de novo,</hi> to treat of Imposition of hands, not in relation to the Dispute, but as from the Text; And first he observed, That it being a doctrine it ought to be taught, and teaching doth necessarily infer practise, that they might learn, as any Art or Trade that youth is brought up in, who if they doe not practise what they are taught, are corrected and punished. For teaching and learning are relations, as Father, and Childe, Husband and Wife, the one infers the other. Then as a princi<g ref="char:EOLhyphen"/>ple, whether we take it in relation to Honour, as <hi>chief,</hi> or Or<g ref="char:EOLhyphen"/>der, as <hi>first,</hi> both of these significations being proper to the ori<g ref="char:EOLhyphen"/>ginal word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, do very strongly infer the practise. But here the interruptions were so many that Dr. <hi>Camberlain</hi> could pro<g ref="char:EOLhyphen"/>ceed no further. Whereupon a new Agreement was made that Capt. <hi>Kiffin</hi> should propound his Arguments one by one, and so Dispute should begin orderly between them, Then Cap. <hi>Kiffin</hi> offred this Argument.</p>
+            <p>Argum. 1. <hi>For any to practise any thing as an Ordinance of God with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:118299:5"/> a command from God, or particular revelation from God, is unlawfull, or Will-worship. But to practise Imposition of hands as an Ordinance of God, is to practise a thing without a command of God, or particular reve<g ref="char:EOLhyphen"/>lation. Therefore to practise Imposition of hands as an Ordinance of God is unlawful and Wil-worship.</hi>
+            </p>
+            <sp>
+               <speaker>Dr. Ch.</speaker>
+               <p>In the first place this very Argument is made use of a<g ref="char:EOLhyphen"/>gainst water-Baptism, and hath the same strength; But the <hi>Minor</hi> Proposition is denied, for we have both Command, and particular Revelation.</p>
+            </sp>
+            <sp>
+               <speaker>C.K.</speaker>
+               <p>
+                  <hi>Shew the command.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.C.</speaker>
+               <p>Mat. 28.20.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Quest.</hi> C. K.</speaker>
+               <p>
+                  <hi>Where is it in the Text quoted by you in</hi> Matth. 28.20. <hi>either expressed, or implyed from any part of those words, that laying on hands is an Ordinance of God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>Answer. It is fully implyed in these words, <hi>Teaching them to do all things whatsoever I command you;</hi> So that if Christ com<g ref="char:EOLhyphen"/>manded the Apostles to lay on hands, they were to teach the bap<g ref="char:EOLhyphen"/>tized Disciples to do the same; unlesse you will argue as some do from vers. 19. That because Baptizing is onely mentioned, and not Baptizing with water is named in expresse words, there<g ref="char:EOLhyphen"/>fore it is not to be practised; or because it is the participle, Baptizing, and not ye shal baptize, therefore it is no command; but we hope you will not so argue: And therefore Captain, (ver. 20.) that whasoever was commanded, the Disciples com<g ref="char:EOLhyphen"/>manded us by their writings, but Imposition of hand was com<g ref="char:EOLhyphen"/>manded the Disciples.</p>
+            </sp>
+            <sp>
+               <speaker>C.K.</speaker>
+               <p>
+                  <hi>It doth not follow, that because the Apostles did practise the lay<g ref="char:EOLhyphen"/>ing of hands upon some, that therefore it lies as a generall Rule of practise upon all, because many things were practised by them, by vertue of some par<g ref="char:EOLhyphen"/>ticular commands, particularly belonging to them, as tarrying at</hi> Jeru<g ref="char:EOLhyphen"/>salem <hi>to wait for the pouring downe of the Spirit, and many other things of that nature, which no man will say if a Command binding to us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.C.</speaker>
+               <p>In this you suppose Imposition of hands onely upon some beloved Disciples (which we grant not, neither is our Inference) and so you alter the question; besides, we bring the words of the Text <hi>(Whatsoever I have commanded you)</hi> whence if you will infer tarrying at <hi>Jerusalem,</hi> you wrest the Scriptures, for
+<pb n="5" facs="tcp:118299:5"/> your conscience cannot but tell you, that the Holy Ghost speak<g ref="char:EOLhyphen"/>eth of commands to be continued to the Churches and Disci<g ref="char:EOLhyphen"/>ples, and not of occasional, temporary, or personal commands; and as for commands, whatsoever the Apostles taught, we ought not to presume they had no command for it. So that this being a Doctrine, it infers there was a Command.</p>
+            </sp>
+            <sp>
+               <speaker>C.K.</speaker>
+               <p>
+                  <hi>By as good a consequence I will prove necessarily the Baptism of Infants.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D. Ch.</speaker>
+               <p>But you cannot, nor more able Disputants than your self; yet you practise the like; for it is not particularly set down that women ought to break bread. I will offer you also, <hi>Phil.</hi> 4.9.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>If there were as clear a Rule for laying on of Hands, as there is for women partaking of the Supper, it would be soon out of doubt; but there is none yet brought by you, whereas you instance, first the commission</hi> Mat. 28.20. <hi>and after</hi> Phil. 4.9. <hi>to confirm the laying on of Hands, to be by vertue of the Commission by you cited, let the hearers judge and consider whether in the one, or in the other there is any such thing. What hath been said by you, is onely that it was a practise, and that all things practised by the Apostles are therefore to be looked upon by us, to be such commands, un<g ref="char:EOLhyphen"/>der the authority of which we ought to practise circumcision, because it was by them, and though whatsoever things are written, are written for our learning, yet not for our instruction.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.C.</speaker>
+               <p>That there are clearer Rules will appear if compared to<g ref="char:EOLhyphen"/>gether; for womens receiving, is not to be argued, but from ex<g ref="char:EOLhyphen"/>ample, and that not expresse, but by way of inference under the notion of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (Disciples) or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which signifies both men and women) or such as gladly received the Word, or the wo<g ref="char:EOLhyphen"/>men that were among the <hi>Corinthians, Acts.</hi> 2.42.20.17. 1 <hi>Cor.</hi> 11. In two of which places the Supper it self is but an inference.</p>
+               <p>But you have clear examples of laying on of hands on all the <hi>Samaritans (Act.</hi> 8.12, 14, 15, 17.) On all the <hi>Ephesians, (Act.</hi> 19.6. besides it is called a doctrine or principle for Babes, <hi>Heb.</hi> 5.12. and 6.1.) And as to <hi>Matth.</hi> 28.20. strengthened with <hi>Phil.</hi> 4.9. relating to the places mentioning Imposition of hands, let the hearers judge whether they be not strong inferences to prove, yea, stronger than any for womens receiving (which I rather instance, because you seem to yeeld on that condition)
+<pb n="6" facs="tcp:118299:6"/> But you mistake what you affirm, I say not it was onely a practise: For I allege it as a Principle and Doctrine from <hi>Heb.</hi> 6.1, 2. and what you infer from the practise of the Apostle, that if all, then circumcision is to be practised also, though this be answered in the former distinction of perpetual Commands, and temporal, and so of constant practises, and occasionall. Yet let all the circum<g ref="char:EOLhyphen"/>stances bee the very same, and we say, that even in particular practises also the Apostles are to be followed, but the same cir<g ref="char:EOLhyphen"/>cumstances are not likely, and therefore not the practise.</p>
+               <p>Here were some confused Discourses and Provocations, as if they would carry away the business with noise, Cap. <hi>Kiffin</hi> apply<g ref="char:EOLhyphen"/>ing to us, <hi>Act.</hi> 19.15. &amp; <hi>Col.</hi> 2.23. &amp; <hi>Isa.</hi> 1.12. And then Dr. <hi>Chamber<g ref="char:EOLhyphen"/>lain</hi> offered this Argument: To teach faith without works, is to teach the faith of devils, <hi>Jam.</hi> 2 19.</p>
+               <p>But to teach Imposition of hands as a doctrine to be beleeved without any practise to it, is to teach faith without works. There<g ref="char:EOLhyphen"/>fore it is to teach the faith of Devils.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>Is our Justification by Faith or Works?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. C.</speaker>
+               <p>Neither our Faith nor our Works can justifie, but we are justified by the Faith of Christ. A doctrine (perhaps) you are not so well read in.</p>
+               <p>Note that Capt. <hi>Kiffin</hi> answered not directly, but evaded all or most Arguments,</p>
+               <p>Note also, he did not fully answer the second and third Arti<g ref="char:EOLhyphen"/>cles of the book, nor at all the fourth.</p>
+               <p>Upon Friday the 25 of <hi>Novemb.</hi> 1653. (according to pro<g ref="char:EOLhyphen"/>mise) Capt. <hi>Kiffin</hi> sent his paper by his Brother, together with a Letter to prorogue the meeting till the Monday sevennight, 5 <hi>Decemb.</hi> 1653. which accordingly was agreed to.</p>
+               <p>Capt. <hi>Kiffin</hi> and the rest being met on Monday 5. <hi>Decemb.</hi> and prayer for Gods assistance, and leading us into all truth, be<g ref="char:EOLhyphen"/>ing ended, Doctor <hi>Chamberlain</hi> propounded whether it were not better to treat of the Subject clearly, without any relation to the Dispute or the Paper, that so the words or phrases which might in the least breed any disaffection might be avoided. But Mr. <hi>Spilsbery</hi> and others thought it best to answer the Paper, because they were come to that end: and so Dr. <hi>Chamberlain</hi> de<g ref="char:EOLhyphen"/>siring that no exception might be taken on either side from such
+<pb n="7" facs="tcp:118299:6"/> expressions as the Paper had occasioned, did proceed to the read<g ref="char:EOLhyphen"/>ing of Mr. <hi>Kiffins</hi> Paper as followeth.</p>
+               <p>IN the examination of the Book lately tendred to me I finde two things requisite principally to be considered: The matter that is to be proved is, <hi>That laying on of hands upon every Disciple is an Ordinance of Christ to be practised by all the aforesaid Subjects.</hi>
+               </p>
+               <p>I say, two things in the Book are tendered for the proofe hereof.</p>
+               <p n="1">1 That it is recorded as a principle to all true baptized belee<g ref="char:EOLhyphen"/>vers, <hi>Heb.</hi> 6.1, 2.</p>
+               <p n="2">2 That it was practised by the Apostles, upon whole Chur<g ref="char:EOLhyphen"/>ches of baptized Beleevers, instance <hi>Act.</hi> 8.17. and 19.6, 7. <hi>&amp;c.</hi>
+               </p>
+               <p>For answer to the first of these, I do first grant, that though it be recorded as a Principle or Doctrine, yet I do deny it to be the <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntent of the Spirit of God in the fore-mentioned place, <hi>Heb.</hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1, 2. to hold out a practise of laying on of hands to all bapti<g ref="char:EOLhyphen"/>zed beleevers, for these reasons, <hi>viz.</hi>
+               </p>
+               <p n="1">1 Because the Apostle cals it a Doctrine not a Practise.</p>
+               <p n="2">2 Because we may clearly see by seriously weighing the scope of the Apostle in this Epistle, as also the 12. verse of the forego<g ref="char:EOLhyphen"/>ing chapter, with the 5. verse of this chapter, that the design of the Apostle was to lift up Jesus Christ in his three offices, espe<g ref="char:EOLhyphen"/>cially that of his Priesthood, to take off those Hebrewes from their esteem of their <hi>Moisaicall</hi> practices, and in the 12 verse of the 5. chapter, and 6.1, 2. that he blames them for, was not the neglect of a practise, for those who hold laying on of hands confesse this Church to be the first Gospel-Church which did practise that dispensation, but for not seeing into the Doctrines of the Gospel, which is the spirit of Christianity; so that, that the Apostle blames them for neglect, it could not be for that they had done, but for that they ought to have done. So then, the practise of laying on of hands in this Scripture is not inten<g ref="char:EOLhyphen"/>ded, but the doctrine; which doctrine appears to me indeed, to be the doctrine which was confirmed by Signes and Wonders from Heaven, <hi>Heb.</hi> 2.4, 5. which did sometimes follow upon lay<g ref="char:EOLhyphen"/>ing on of hands, as <hi>Act.</hi> 8.14. <hi>&amp;</hi> 19.7, 8.</p>
+               <p>To the second thing mentioned in the book, that it was a
+<pb n="8" facs="tcp:118299:7"/> practise upon whole baptized Churches, &amp;c. <hi>Act.</hi> 8.14. <hi>&amp;</hi> 19.7, 8. I Answer that both those instance do clearly prove what was said before, that it is not a doctrine practicable to all Saints, but was dispensed onely for the confirmation of the Gospell: For first, it is to be observed who dispensed laying on of hands, not <hi>Phi<g ref="char:EOLhyphen"/>lip,</hi> but <hi>Peter</hi> and <hi>John,</hi> who being the Foundation-layers, must be the Administrators of that dispensation, which was for the confirmation of that Foundation. And therefore I instance that those who practise may consider what they do, lest it may be said of them as it is said <hi>Act.</hi> 19.15. <hi>Paul I know, and Jesus I know, but who are yee?</hi>
+               </p>
+               <p>I shal only tender you these few Scripture Reasons which are of great satisfaction to me, that laying on of hands is not a stand<g ref="char:EOLhyphen"/>ing Ordinance on every baptized Disciple, <hi>viz.</hi>
+               </p>
+               <p n="1">1. That which is practised by any person as an Ordinance of Christ without a command of Christ in the Word, or an ex<g ref="char:EOLhyphen"/>traodinary Revelation of the Spirit, is unlawful or will-wor<g ref="char:EOLhyphen"/>ship.</p>
+               <p>But the practise of laying on of hands on all baptized Disci<g ref="char:EOLhyphen"/>ples is without a command in the Word, or an extraordinary Re<g ref="char:EOLhyphen"/>velation of the Spirit.</p>
+               <p>Therefore unlawful or wil-worship, God may justly say as of old, <hi>Who hath required these things at your hands, &amp;c.</hi>
+               </p>
+               <p n="2">2. That which is practised as an Ordinance of God, or as a means to accomplish an end, when the then end is not by any promise of God annexed to the means, is not only unsuitable to a Christian to perform, but to every rational man, and indeed, at the best it must be a Form without Power.</p>
+               <p>If it be objected, But God hath promised to poure out his Spi<g ref="char:EOLhyphen"/>rit, <hi>Ioel</hi> 2.28. <hi>Act.</hi> 2.17. and this promise may be expected to be accomplished by the laying on of hands, <hi>&amp;c.</hi>
+               </p>
+               <p>I Answer, That though it be true, that God has promised the pouring out of his Spirit, yet this is not annexed to the laying on of hands, but was dispensed without laying on of hands, as <hi>Acts</hi> 2. <hi>Acts</hi> 10.44. And somtimes before Baptism, as <hi>Acts</hi> 9.17.19. &amp; 10.44.</p>
+               <p n="3">3. That upon the same account one thing is practised by us without a Precept, barely because the Apostles did practise it, e<g ref="char:EOLhyphen"/>very thing practised by them ought to be practised by us, and
+<pb n="9" facs="tcp:118299:7"/> then the writing of Scripture, healing the sick, raising the dead, circumcision, <hi>&amp;c.</hi> ought to bee practised, which I suppose will in no measure be granted by sober men.</p>
+               <p n="4">4. To practise that as an Ordinance of God, which was onely practised by the Apostles as Foundation-layers, for the confir<g ref="char:EOLhyphen"/>mation of those foundations, and that by an immediate Reve<g ref="char:EOLhyphen"/>lation from God, without a particular written Word, is in ef<g ref="char:EOLhyphen"/>fect to proclaim to the world the laying of the foundation again, and so indeed to come under the reproof of that Text, <hi>Heb.</hi> 6.1, 2. which is so often tryed; therefore it behoves persons to be very careful what they do in this matter. These things I briefly tender without further inlargement to administer an occasion of De<g ref="char:EOLhyphen"/>bate upon them.</p>
+               <p>The Paper being read here followeth the Answer.</p>
+               <p>As the Paper relates to the Book mentioned, I shall not med<g ref="char:EOLhyphen"/>dle with it, but leave it to the Author, who is very well able to vindicate it, and take notice wherein the said Paper cometh short of a full and satisfactory Answer.</p>
+               <p>But as it deales with some Arguments which naturally arise from the Text, I shall indeavor satisfaction, and that according to my promise.</p>
+               <p n="1">1. That these Arguments are and may be used against Bap<g ref="char:EOLhyphen"/>tism.</p>
+               <p n="2">2. That the same Arguments will be retorted against the not practisers of this Ordinance.</p>
+               <p n="3">3. That Cap. <hi>Kiffin</hi> doth wrest the Scripture from the proper true meaning of the Holy Ghost.</p>
+               <p>And so we proceed to the first assertion by Cap. <hi>Kiffin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cap. Kif.</speaker>
+               <p n="1">1. <hi>That though Imposition of hands be recorded as a Prin<g ref="char:EOLhyphen"/>ciple or Doctrine, yet it is denied to be the meaning of the Spirit of God in</hi> Heb. 6.1, 2. <hi>to hold out the practise of laying on of hands on all baptized Be<g ref="char:EOLhyphen"/>leevers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. Ch:</speaker>
+               <p>
+                  <hi>Ans.</hi> To answer this by my first three Rules, I say the same Argument may be taken and applyed to Baptism, that though Baptism be recorded as a Principle or Doctrine, yet it is denyed to be the meaning of the Spirit of God in <hi>Heb.</hi> 6.1, 2. to hold out a practise of Baptism; so that if you refute this Thesis about Baptism, you refute also your own Thesis about Imposi<g ref="char:EOLhyphen"/>tion
+<pb n="10" facs="tcp:118299:8"/> of Hands (which is a turning the Cannon upon your self) and by consequence it followeth, that by changing the meaning of the Spirit of God, you wrest the Scripture, <hi>Heb.</hi> 6.1, 2. But in fuller Answer, I say this Thesis makes void all the Scripture, and may be as fully applyed to any part of Scripture; set<g ref="char:EOLhyphen"/>ting up the Scripture onely as a thing to be gazed at, or looked upon, but not to be learned, obeyed, or practised. Secondly, It thwarts the very word and design of all the Scripture, for whereas the whole design of the Holy Ghost is to let us know, that <hi>not the hearers, but the doers of the Word shall be saved;</hi> this The<g ref="char:EOLhyphen"/>sis in direct opposition saith, Not the doers, but the hearers of the Word shal be saved; which is so much the more to be consi<g ref="char:EOLhyphen"/>dered, because that imposition of hands is an action of the Body more expresly understood than Baptisme, or any other ordinance except washing of Feet. We come now to the reason.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p n="1">1. <hi>Because the Apostle calls it a Doctrin, not a Practise?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>
+                  <hi>Ans.</hi> Because it is not exprest in full termes Water-Bap<g ref="char:EOLhyphen"/>tism, therefore it is not Water-Baptism; here you see again the force of your Argument against Water-Baptism. Secondly, The Cannon against you is, That we say, because the Apostle calls it a Doctrin, therefore so farre from being not practised, that it ought the rather to be practised, for without practising no learning. And, Thirdly, your wresting of this Scripture, whereas the ex<g ref="char:EOLhyphen"/>presse purpose of the Holy Ghost is therefore to teach Doctrine, that Disciples might do what is taught (<hi>Mat.</hi> 28.20. <hi>Mat.</hi> 7.21, 24, &amp;c. <hi>Job.</hi> 13.17. <hi>&amp;</hi> 15.14. <hi>Ja.</hi> 1.22, 23, 24, 25. <hi>Phil.</hi> 4.9. and many other places) you wrest it to the direct contrary, and say, therefore it is called a doctrin that it might not be practised. And if we shall answer you as you deal with us, they that teach faith without works teach the faith of Devils (<hi>Ja.</hi> 2.19.) Second<g ref="char:EOLhyphen"/>ly, It is absolutely denied that ever the Apostle did call it not a practise; this distinction is yours, and not the Apostles.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>Your second Reason is, Because we may clearly see the scope of the Apostle in this Epistle, as also</hi> Heb. 5.12. <hi>with the</hi> 6.5. <hi>that the de<g ref="char:EOLhyphen"/>sign of the Apostle was to lift up Jesus Christ in his three Offices, especi<g ref="char:EOLhyphen"/>ally that of his Priest-hood, to take off the Hebrews from their esteem of their</hi> Mosaical <hi>practises; And</hi> Heb. 5.12. &amp; 6.1, 2. <hi>that which hee blames them for was, not the neglect of a practise (for those who hold lay<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:118299:8"/> on of hands, confesse this Church to be the first Gospel-Church that did practise this Dispensation) but for not seeing into the Doctrin of the Gospel, which is the spirit of Christianity; so that if the Apostle blames them for neglect, it could not be for that they had done, but for what they ought to have done, so that the practise of laying on of hands in this Scripture is not intended, but the doctrin, which doctrin appears to me indeed that Do<g ref="char:EOLhyphen"/>ctrin which was confirmed with signs and wonders from Heaven,</hi> Hebr. 2.4, 5. <hi>which did sometimes follow upon laying on of hands,</hi> Acts 8.19.</p>
+            </sp>
+            <sp>
+               <speaker>D. Ch.</speaker>
+               <p>
+                  <hi>Ans.</hi> 1. If you read Mr. <hi>Dells</hi> Doctrin of Baptism, you shal finde him in no lower Phrases and pretences, beating down Water-Baptism; for by pretence of exalting Jesus Christ, he saith, it became not him that was the Master to use the Baptism of a Servant, nor him that was the Creator to make use of the Crea<g ref="char:EOLhyphen"/>ture; and slights all actions, and contemplations, that sound lesse than Spiritual Baptism, the very waters that he deals with are all Spiritual, because <hi>Joh.</hi> 4.10, 14. &amp; 7.38, 39. and his words are water, because <hi>Jo.</hi> 15.3. so farre is he above <hi>Moses,</hi> or <hi>John</hi> himself, in a pretended exalting of Christ.</p>
+               <p n="2">2 This Cannon also wil be turned upon your self; for if in this Epistle, and places cited, the Apostle only exalted Christ, then why are other Epistles allowed, which (by consequence) doe not so? or if all doe, why doe you instance this in particular? your Argument is voyd.</p>
+               <p n="3">3 You wrest the Scripture; for whereas the words expresly finde fault that they went not on to perfection, leaving those doctrins and principles; you say the meaning is, they should stick fast in the Contemplation of those doctrins and principles, as not being found fault with for not practising; since you grant also, or seem so to doe, that they had already practised them. Now in further answer, we shal consider the force of this reason, that you may see your self whether you have not been mistaken in it. It sounds thus together that because the Holy Ghost in this place meant to exalt Jesus Christ, therefore his doctrin was not to be practised; or, (in your phrase) it was a doctrin, and not a practise. Why should you imagine that the practise of Christs Doctrin should be an hinderance of his exaltation, either in his Kingly, Priestly, or Prophetical Office? and not rather
+<pb n="12" facs="tcp:118299:9"/> as the Prophet, <hi>If I be a Master, where if my fear; if I be a Father, where is my honour?</hi> (Mal. 1.6.) if Christ be a Prophet, hear his Doctrin; if a Priest, confesse your neglect; if a King, obey his commandment; this in general; but because instead of a Rai<g ref="char:EOLhyphen"/>sin here seems to be a Frail, I shal pick them out one by one.</p>
+               <p>First, You affirm that <hi>Heb.</hi> 5.12. we may clearly see the A<g ref="char:EOLhyphen"/>postles design to lift up Jesus Christ in his three Offices, especially Priest-hood: though others may see it, I cannot; for though o<g ref="char:EOLhyphen"/>ther parts of this Epistle doe, yet this doth not, but rather en<g ref="char:EOLhyphen"/>deavours to exalt the Hebrews to a progress in Christ.</p>
+               <p>Secondly, Though the Phrase be now in fashion of lifting up, yet me thinks it carries a kind of obscure Riddle with it, that doth not so wel consort with Scripture phrases, nor my capa<g ref="char:EOLhyphen"/>city; for I meet not with it but where it means Crucifying of Christ, and farre be it from our purposes to doe so; and where it signifies the Spirit of Christ Jesus, we ought not so to judge of the meek Spirit of Christ; indeed it agrees wel with the spirit of Pride, and spiritual baptism of these dayes.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>Next you say, he blames you not for not practising, but for not seeing into the doctrin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. Ch.</speaker>
+               <p>
+                  <hi>Ans.</hi> It is partly confest from <hi>Heb.</hi> 5.12. they were not spiritual enough in their practises; but <hi>Heb.</hi> 6.1, 2. shews fully where their blame lyes, that it was for not pressing for<g ref="char:EOLhyphen"/>ward to perfection; and withall doth as it were confirm the main scope of <hi>Heb.</hi> 5.12. for not being Teachers.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>So that the practise (say you) of laying on of hands is not here intended, but the doctrin?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dr. Ch.</speaker>
+               <p>
+                  <hi>Ans.</hi> It is not said that place doth enjoyn the <hi>Hebrews</hi> to have the imposition of hands again, no more than Baptism, or repentance from dead works, &amp;c. but quite contrary, that they should go forward, and build higher; nor is it fair deal<g ref="char:EOLhyphen"/>ing, but a wresting of the meaning of the practisers of that Or<g ref="char:EOLhyphen"/>dinance, to offer this as if we urged it to be practised again by the same parties, but you do wrest the Scriptures, 2 <hi>Pet.</hi> 3. so that we may the better bear with you for wresting either our words or meanings. But this we say, that by this Scripture it is clear they are Principles, they are Doctrins, they are Milk, they are Foundations; for as for the inference and manner of practi<g ref="char:EOLhyphen"/>sing
+<pb n="13" facs="tcp:118299:9"/> we prove from other Scriptures, as Christ suffered not a Scripture to go alone, <hi>Mat.</hi> 4.4. <hi>Luk.</hi> 4.4. <hi>Deut.</hi> 8.3. but testi<g ref="char:EOLhyphen"/>fied that man liveth by every word that proceedeth out of the mouth of God, according to what he practised at that time a<g ref="char:EOLhyphen"/>gainst the temptations of the Devil.</p>
+            </sp>
+            <sp>
+               <speaker>C.K.</speaker>
+               <p>
+                  <hi>Which Doctrin appears to you to be that which was confirmed with signs and wonders,</hi> Heb. 2.4, 5.</p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>That this Doctrin was confirmed with signs and won<g ref="char:EOLhyphen"/>ders from Heaven is confest, <hi>Acts</hi> 8.14. &amp; 19.6. therefore it fol<g ref="char:EOLhyphen"/>lows, How shal we escape if we neglect so great Salvation? <hi>Heb.</hi> 2.3. But that signs and wonders are called this Doctrin of Bap<g ref="char:EOLhyphen"/>tism, and of imposition of hands, is an inverting, and perverting of Scriptures; besides, it is just as Master <hi>Dell</hi> and others over<g ref="char:EOLhyphen"/>throw Water-Baptism from 1 <hi>Cor.</hi> 1.14. that because he thank<g ref="char:EOLhyphen"/>ed God he Baptised none but <hi>Crispus</hi> and <hi>Gaius,</hi> &amp;c. therefore he recanted his Baptism, when as the next verse tels us, it was lest they should say he had baptised into his name, so that they pre<g ref="char:EOLhyphen"/>tend to know <hi>Pauls</hi> minde and reason better than himself; so the Holy Ghost saith here, it is the Doctrin of Baptisms, and you say it is the doctrin of Miracles. The Holy Ghost saith, they should learn these doctrins, and you say they should stick in them, and ponder them; or else, because there is a doctrin, or somewhat to be learned from Baptism, and imposition of hands, therefore we should not practise them.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>These are the conclusions which (namely signs and wonders) say you, did sometimes follow upon imposition of hands,</hi> Act. 8.19.</p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>Then the confirmation did but sometimes follow the Gospel, and this sheweth how you erre, not knowing the Scrip<g ref="char:EOLhyphen"/>ture, nor the true doctrin of imposition of hands.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>The second point you come to is, that the instances of</hi> Acts 8.14. &amp; 19.7, 8. <hi>for the practise upon Baptised Churches, do clearly prove what was said before, that it is not a doctrin practicable to all Saints, but was dispensed only for the confirmation of the Gospel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D.C.</speaker>
+               <p n="1">1. If it were dispensed only for the confirmation of the Gospel, it doth not follow it should not be dispensed on all, since all ought to have the Gospel confirmed.</p>
+               <p n="2">2. How doth this hold, because it was upon all then, there<g ref="char:EOLhyphen"/>fore it must be but on some, or none at all now; or what was then done must not be now?</p>
+               <p n="3">
+                  <pb n="14" facs="tcp:118299:10"/>3 So Spiritual Baptisers of Water-Baptism was in the infan<g ref="char:EOLhyphen"/>cy of the Ch. it must not be now, and they have a more seeming reason, <hi>John</hi> most decrease, but Christ must increase, <hi>Joh.</hi> 3.30.</p>
+               <p n="4">4 This Cannon is planted against you, because whole bodied Churches did it then, your neglect is condemned by a cloud of Witnesses, even whole bodied Churches, and they by their exam<g ref="char:EOLhyphen"/>ple wil rise up in judgement against you.</p>
+               <p n="5">5 You wrest this Scripture also, for whereas the purpose of the Holy Ghost is to record this, that it might be written for our instruction and learning, <hi>Rom.</hi> 15.4. you say it is written not at all for our learning, but because we should not practise it.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>But you adde a reason, because</hi> Peter <hi>and</hi> John <hi>laid on hands, and not</hi> Philip.</p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>This is to set up <hi>Paul, Apolles, Cephas,</hi> nay we must come to Ordination, and the Pope, if we follow this Argument close at heels; but first,</p>
+               <p n="1">1 (According to promise) against Water-Baptism, <hi>Peter, John, Paul</hi> are thought to Baptize with the Holy Ghost, <hi>Act.</hi> 8.14. <hi>Act.</hi> 19.6. therefore none ought to Baptize but <hi>Peter, Paul, John,</hi> or such as have the Holy Ghost.</p>
+               <p n="2">2 Because <hi>Peter</hi> and <hi>John</hi> laid on hands, it argues how great an Ordinance you neglect, and therefore your Condemna<g ref="char:EOLhyphen"/>tion the greater, because they gave an example, <hi>Phil.</hi> 3.17. &amp; 4.9.</p>
+               <p n="3">3 It shews your great disorder, that since <hi>Philip</hi> (though doing Miracles) must not lay on hands, but <hi>Peter</hi> and <hi>John</hi> from the Church at <hi>Jerusalem;</hi> you want this order and ordinance, and (probably) the other gifts of the Holy Ghost, which should lead you into further truths, because you are so farre from being taught again, that you have not learnt at all which be the Prin<g ref="char:EOLhyphen"/>ciples of the foundation of Christ, for if any man will do the will of Christ he shall know of his Doctrin whether it be of God, <hi>Joh.</hi> 7.17. and not if any man will hinder doing of his will.</p>
+               <p n="4">4 Therefore fourthly, you wrest these Scriptures, <hi>Act.</hi> 8. &amp; 19. which are written to comfort us, and encourage and con<g ref="char:EOLhyphen"/>firm the doctrin and practise to us, and you make it to dis-hear<g ref="char:EOLhyphen"/>ten and deter us from it.</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:118299:10"/>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>Lastly, You say foundation-Layers must be foundation-Con<g ref="char:EOLhyphen"/>firmers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D. C,</speaker>
+               <p n="1">1. This is so argued by Mr. <hi>Dell,</hi> and others.</p>
+               <p n="2">2 This Cannon is against you, for therefore these have both layed and confirmed a foundation against you.</p>
+               <p n="3">3 Shall I say, you wrest no Scriptures because you allege none? or shall I suppose you wrest the Scripture where <hi>Simon Magus</hi> thought that imposition of hands did give the Holy Ghost? but <hi>Peter</hi> curst him for thinking it lesse than the gift of God, <hi>Acts</hi> 8.20.</p>
+               <p>Therefore though you upon no grounds threaten, <hi>Act.</hi> 19.15. and did the other day threaten, <hi>Gal.</hi> 1.8.9. so I shall only offer these Scriptures to your consideration, <hi>Act.</hi> 13.8, 9, 10, 11. <hi>Heb.</hi> 10.28.29. <hi>Ja.</hi> 2.17, 18, 19, 20. but as I pray, so I beleeve, and hope better things of you, but I provoke you, if by any means I may save you from disobedience, and resisting the Holy Ghost; I come now to try your Arguments in the Frontispeece, or Title, whereof you call them Scripture Reasons, and yet no direct Scripture quoted. Secondly, you thrust in a word there of a stan<g ref="char:EOLhyphen"/>ding ordinance, a trick that many have lately found out to null either all, or any piece of the Scripture at their pleasure; in<g ref="char:EOLhyphen"/>deed it is but crying out, it is not a landing ordinance, and the Scripture it self, and all truth with it falls unto the ground, and doth homage to what new doctrin or Scripture soever any Ran<g ref="char:EOLhyphen"/>ter, Jew, or Jesuite shall set up; your Argument follows.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>Arg. 1. <hi>That which is practised by any person as an Ordinance of Christ, without a command of Christ in the Word, or an extraordinary revelation of the Spirit, is unlawfull, or will-worship.</hi>
+               </p>
+               <p>
+                  <hi>But the practise of laying on of hands on all baptized Beleevers is without a command in the Word, or an extraordinary Revelation; therefore un<g ref="char:EOLhyphen"/>lawfull, or will-worship; God may say, who hath required?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>
+                  <hi>Ans.</hi> To this I formerly answered, that many have used the same Argument against Water-Baptism, because they acknow<g ref="char:EOLhyphen"/>ledge nothing commanded but what is <hi>(totidem verbis)</hi> in so many words set down, which can be no where found of Baptism, and at this rate all the Ordinances of Christ will be evaded one after another; for when all is said that can be, it wil not be found, I Jesus Christ command thee <hi>John,</hi> or <hi>Thomas,</hi> to do this or that
+<pb n="16" facs="tcp:118299:11"/> duty; but I take that to be a command of Christ, which hath the force of a command in Scripture, whether it be in Gospel or Epistles, and can so maintain it, and in that sense I deny the Minor, and say we have both command and especiall Revelation; First, for a command we have it <hi>Mat.</hi> 28.20. for whatsoever is a Doctrin of the Apostles is a command of Christ, but impositi<g ref="char:EOLhyphen"/>on of hands is a Doctrin of the Apostles; the Minor is granted by you in your first assertion, where you say you grant it is a Doctrin or Principle, but not to be practised; and the text doth also number it up amongst the doctrins and principles.</p>
+               <p>The Major is the very words of the text, <hi>Teaching them to doe all things whatsoever I command you;</hi> unlesse you will deny that Doctrin is teaching, or that the Apostles taught what they were not commanded, as some have presumptuously affirmed.</p>
+               <p>As concerning the instance of staying at <hi>Jerusalem,</hi> and prepa<g ref="char:EOLhyphen"/>ring the Passeover, which were temporary Acts, and not Do<g ref="char:EOLhyphen"/>ctrins, I am perswaded you dare not inferre it (upon second thoughts) from the text, neverthelesse against all such Cavils let Circumstances be the same, and they also shall be obeyed; therefore for your instead of, <hi>Who hath required these things at your hands?</hi> Isa. 1.12. read, <hi>Cursed be he that doth the work of the Lord neg<g ref="char:EOLhyphen"/>ligently,</hi> Jer. 48.10. and of how much sorer punishment shall hee be thought worthy, &amp;c. <hi>Heb.</hi> 10.29. that doth adde or diminish from the will of the dead, <hi>Gal.</hi> 3.15. sealed with the bloud of the Testator, <hi>Heb.</hi> 9.13, 14, 15, 16. &amp;c. so that it is concluded in <hi>Revel.</hi> 22.18, 19. that whosoever addeth, the plagues of the Book shall be added, and whosoever taketh away, his name shall be taken out of the Book of Life, with many other pla<g ref="char:EOLhyphen"/>ces to like purpose; we have many other Arguments to prove it a command of Christ, but I shall now prove it by especiall reve<g ref="char:EOLhyphen"/>lation.</p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>
+                  <hi>Arg.</hi> That which is contained in the Word, and disco<g ref="char:EOLhyphen"/>vered to very few that read that word, is discovered by especiall revelation.</p>
+               <p>But imposition of hands is a doctrin and practise contained in the Word, and discovered but to very few that read that word; therefore the doctrin and practise of imposition of hands is by especial revelation.</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:118299:11"/>
+               <speaker>C. K.</speaker>
+               <p>2 Arg. <hi>Your second Syllogism, or Argument, must be sup<g ref="char:EOLhyphen"/>posed one, for you have not made it so.</hi>
+               </p>
+               <p>
+                  <hi>That which is practised as an Ordinance of God, or as a means to accomplish an end, when the then end is not by any promise of God annexed to the means, is not only unsuitable to a Christian to per<g ref="char:EOLhyphen"/>form, but to every rational man, and indeed at the best it must be but a form without power; now I suppose you mean laying on of hands is so;</hi> ergo.</p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>
+                  <hi>Ans.</hi> I will not except against any thing that I can any way passe over, therefore to take all your expressions in the best sense I can, I consent to your Major, and do not only deny your Minor, but affirm also that there is not the least Ordinance, Command, Principle, or Do<g ref="char:EOLhyphen"/>ctrin of Jesus Christ, but hath many general Promises, and some of them particular, as <hi>Mat.</hi> 5.19. <hi>Jo.</hi> 14, 15, 16, 23, 24.15.7, 10, 14. 1 <hi>Joh.</hi> 2.3.3.22.5.2, 3. these in generall. Now in particular, for Imposition of hands, in regard it is properly an act of Saints, to appro<g ref="char:EOLhyphen"/>priate the benefit of their prayer on the person prayed for, <hi>Acts</hi> 6.6.8.15, 17. <hi>Ja.</hi> 5.14.13. wee have first divers examples which are recorded for our instruction to encourage us, and be as a promise to us, that the God and Father to them is our God and Father, as <hi>Deut.</hi> 34.9. 1 <hi>Tim.</hi> 4.14. 2 <hi>Tim.</hi> 1.6.5.22. <hi>Act.</hi> 8.17.19.6.9.17.</p>
+               <p>Secondly, we are encouraged and stirred up by particular promise from Christs own mouth, to pray for whatsoever we will <hi>Mat.</hi> 18.19. <hi>Jo.</hi> 14.12, 13.15.7.16.23, 26. 1 <hi>Jo.</hi> 3.22. <hi>&amp;</hi> 5.14, 15, 16. <hi>Mat.</hi> 21.21, 22. and in his name for the Spirit, <hi>Luk.</hi> 11.13. yea it is observable, that as the Father ratified the Ordinance of Baptism on Jesus Christ, by sending on him the Holy Ghost; so is it notable that the Father ratified Imposition of hands upon prayer twice, <hi>Act.</hi> 8.17. 19.6. which he never did on Baptism save only when Jesus was Bapti<g ref="char:EOLhyphen"/>zed; but if we will, notwithstanding such a cloud of Witnesses, put this Ordinance from us, and count our selves unworthy of the Holy Ghost, let us know, that he that hath not the Spirit of Christ is none of his, <hi>Rom.</hi> 8.9. but is a reprobate, 2 Cor. 13.15. and his body is none of the Temple of the Holy Ghost, 1 <hi>Cor.</hi> 3.16.6.15.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>Obj. <hi>Next, you suppose an objection, if it be objected; But God hath promised to poure out his Spirit, &amp;c.</hi> Joel 2.28. Act. 2.17. <hi>and this promise may be expected to be accomplished by the Laying on of Hands, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> You answer, <hi>Though it be true that God hath promised the
+<pb n="18" facs="tcp:118299:12"/> pouring out of his Spirit, yet this is not annexed to the laying on of hands, but was dispensed without the laying on of hands, as</hi> Act. 10.44. <hi>and sometimes before Baptism, as</hi> Act. 9.17.19 &amp; 10.44.</p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>
+                  <hi>Reply.</hi> The objection you make you may as easily unmake, you are the Potter, and have power over your own Clay; but wee make not our objection in this manner, nor from that text, yet we may consider what is in your answer worthy observation, that though the promise of the Holy Ghost be annexed to Baptism, <hi>Mat.</hi> 3.11. <hi>Mar.</hi> 1.8. <hi>Luk.</hi> 3.16. <hi>Jo.</hi> 1.33. <hi>Act</hi> 2.38, 39. yet the Holy Ghost was not so tyed to it; but you grant it to be before in <hi>Act.</hi> 9.17. &amp;. 10.44 and this renders your own answer invalid to your own objection; so migh<g ref="char:EOLhyphen"/>tily do they mistake that undertake to fight against the truth.</p>
+            </sp>
+            <sp>
+               <speaker>C.K.</speaker>
+               <p>3 Arg. <hi>That upon the same account that one thing is practised by us without a precept, barely because the Apostles did practise it, every thing practised by them ought to be practised by us; and then the writing of Scripture, healing the Sick, raising the Dead, Cir<g ref="char:EOLhyphen"/>cumcision, &amp;c, ought to be practised, which I suppose will in no mea<g ref="char:EOLhyphen"/>sure be granted by sober men.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>
+                  <hi>Ans.</hi> This may have the force of a Syllogism with some in<g ref="char:EOLhyphen"/>stances, but is bare discourse, and the very same that is used by the Opposers of Water-Baptism, and in the second place may be used by any against your Church-meetings, and Supper of the Lord, and Womens receiving; but I answer thus; First, You dispute out of things not gran<g ref="char:EOLhyphen"/>ted, supposing it without precept, which we doe not. Secondly, If by the word (barely) either you suppose there is no precept for us to fol<g ref="char:EOLhyphen"/>low the examples, and practises, then have you not well read the Scrip<g ref="char:EOLhyphen"/>tures, and we have already proved that we have a precept; but if you intend it as a distinction between such actions as were occasionall, and temporary, and were not properly said to be practised by the Apo<g ref="char:EOLhyphen"/>stles (which I suppose you do) I acquiesce in your distinction, but then the word practise loseth its force; wherefore I shall make bold with your Proposition thus; That what was barely once, or occasionall, or but upon temporary commands acted by the Apostles, without any further precept or practise, ought not to be practised by us; but then this serves not your turn against imposition of hands; then if you say, that many things were practised by them which are not to be practised by us, or which we have no precept to follow, this is utterly denied, for their Examples, Doctrins, and practises were binding commands, yea
+<pb n="19" facs="tcp:118299:12"/> the very examples of all Saints and Churches in good and lawfull, or commendable things.</p>
+               <p n="1">1 The Apostles Doctrins are perfect commands, yea the very com<g ref="char:EOLhyphen"/>mands of Christ, <hi>Mat.</hi> 28.20. &amp; 1 <hi>Cor.</hi> 14.37. <hi>Phil.</hi> 4.9. and the Apostles themselves used that authority, 2 <hi>Thes.</hi> 3, 4, 6, 12. 1 <hi>Thes.</hi> 4.2. &amp; 2 <hi>Pet.</hi> 3.2. yea <hi>Paul</hi> alone as from the Lord, 1 <hi>Cor.</hi> 7.10. for we are built upon the foundations of the Apostles, and Pro<g ref="char:EOLhyphen"/>phets, Jesus Christ himself being the chief corner stone, <hi>Eph.</hi> 2.20.</p>
+               <p>I shall also shew you, how their very examples are commandements, <hi>Phil.</hi> 4.9. whatsoever you have heard and seen in me, doe, 1 <hi>Cor.</hi> 4.6. &amp; 11.1. Be yee followers of me; and these are <hi>Pauls</hi> particular ex<g ref="char:EOLhyphen"/>amples; but in the plurall the Apostles examples are fully commanded, <hi>Phil.</hi> 3.17. &amp; 2 <hi>Thes.</hi> 3.7, 9. If we will yet go higher, Christs ex<g ref="char:EOLhyphen"/>amples are fully commanded, 1 <hi>Cor.</hi> 11.1. <hi>Jo.</hi> 13.15. &amp; 1 <hi>Jo.</hi> 2.6. &amp; 1 <hi>Pet.</hi> 2.21. yea God himself, <hi>Eph.</hi> 5.1. followers of God, be holy, for God is holy, 1 <hi>Pet.</hi> 1.16. be perfect, as our heavenly Father, <hi>Mat.</hi> 5.48. and if we wil go lower, we have likewise commands to follow the examples of Saints, <hi>Heb.</hi> 6.12. &amp; 13.7. and for this cause the <hi>Thessalonians</hi> are so commended for following of the examples of Christ and his Apostles, 1 <hi>Thes.</hi> 1.6. yea and of other Churches in <hi>Jerusalem,</hi> 1 <hi>Thes.</hi> 2.14. if we yet go further, <hi>Titus</hi> and <hi>Timothy</hi> were commanded to be examples for others to follow, 1 <hi>Tim.</hi> 4.12. <hi>Tit.</hi> 2.7. and so of Elders, 1 <hi>Pet.</hi> 5.3. yea to the very women to bee examples and teachers of the younger, 1 <hi>Tim</hi> 5. <hi>Tit.</hi> 2.3, 4. &amp; 1. <hi>Pet.</hi> 3.1. What shall I say? the very examples of the wicked are usefull, <hi>Heb.</hi> 4.11. &amp; 2 <hi>Pet.</hi> 2.6. &amp; 1 <hi>Cor.</hi> 10.6.11.</p>
+               <p>Obj. <hi>But you will say, if it he a commandment to follow examples, then either all, or some; if all, it were a contradiction, if but some, then which?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> This is easily answered, from 3 <hi>Jo.</hi> 11. Follow what is good, shun what is evil.</p>
+               <p>Obj. <hi>But you will then object, How should we know?</hi>
+               </p>
+               <p>
+                  <hi>Ans. Phil.</hi> 4.8. will tell you.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>
+                  <hi>As for your instances in writing Scripture, &amp;c. I shall answer them one after another.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>For Scripture, it were well if we did write nothing else, but you mean new foundations, but that cannot be, 1 <hi>Cor.</hi> 3.11. but every man may build upon this foundation, 1 <hi>Cor.</hi> 14.33. so it be not Hay
+<pb n="20" facs="tcp:118299:13"/> and Stubble, for that will be burnt, 1 <hi>Cor.</hi> 3.12, 13. the Apostles writ not Scripture from themselves, but from the Lord.</p>
+               <p>And if you will presse it so farre, if Jesus Christ himself gave us new Scripture (which is but a bare supposition) we ought to write Scrip<g ref="char:EOLhyphen"/>ture-foundations, for we must follow examples wherein they are exam<g ref="char:EOLhyphen"/>ples, <hi>viz.</hi> obedience to the Word of Christ, and of all that are sent by Christ, not that come of themselves, or are sent by men.</p>
+               <p>Your second instance of healing the Sick, I look upon it so farre from your purpose, that I esteem it a constant duty, <hi>Mar.</hi> 16.18. with <hi>Ja.</hi> 5.15. for I suppose we even grow wicked for want of faith, and do wit<g ref="char:EOLhyphen"/>nesse the time of the coming of Christ, <hi>Luk.</hi> 18.8. through our infi<g ref="char:EOLhyphen"/>delity; we come now to your fourth and last argument.</p>
+            </sp>
+            <sp>
+               <speaker>C. K.</speaker>
+               <p>Arg. 4. <hi>To practise that as an Ordinance of God, which was only practised by the Apostles, as foundation-layers, for the confir<g ref="char:EOLhyphen"/>mation of those foundations, and that by an immediate revelation from God, without a particular written word, is in (effect) to pro<g ref="char:EOLhyphen"/>claim to the world the laying of the foundation again, and so indeed to come under the reproof of that text,</hi> Heb. 6.1, 2. <hi>which is so often urged; therefore it behoves persons to be very carefull what they do in this matter, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>D. C.</speaker>
+               <p>This contains many positions and affirmations, and hath scarce the face of an Argument, but of a complication of many suppositions, every of which must be examined, whether they be not meer suppositi<g ref="char:EOLhyphen"/>ons of no force; therefore,</p>
+               <p>
+                  <hi>Supposi.</hi> 1. You suppose this Imposition of hands only practised by the Apostles, which is manifestly proved to be otherwise, both in <hi>Act.</hi> 13.3. where others than Apostles laid their hands on the very Apo<g ref="char:EOLhyphen"/>stles themselves; <hi>Paul</hi> and <hi>Barnabas,</hi> who were Apostles, as appears, <hi>Act.</hi> 14.4.14. &amp; 1 <hi>Cor.</hi> 9.5. Secondly, you may find it in 1 <hi>Tim.</hi> 4.14 performed by Elders, yea you may finde it a practise also of <hi>Timothy</hi> by authority and order of the Gospel, as is implied, 1 <hi>Tim.</hi> 5.22. where the Original will easily clear from those mistakes, which our <hi>English</hi> renders it subject to, for it is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> nor <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, all which promiscuously in English are rendred laying on of hands, though of ve<g ref="char:EOLhyphen"/>ry wide difference in sense. Lastly, it is spoken as to other Beleevers than Apostles, <hi>Mar.</hi> 16.18. which runs into a perpetual ordinance to them that beleeve, <hi>Ja.</hi> 5.14.</p>
+               <p>
+                  <hi>Supposi.</hi> 2. Your next Supposition is, that they only practised Im<g ref="char:EOLhyphen"/>position
+<pb n="21" facs="tcp:118299:13"/> of hands as foundation-layers (a supposition that perhaps chief<g ref="char:EOLhyphen"/>ly mis-guides you from your obedience, but we finde it practised by the Apostles themselves upon another account, even in those places which you so mistake, <hi>Act.</hi> 8.14. &amp; 19.6. for they were already con<g ref="char:EOLhyphen"/>firmed in the faith of the Gospel, they were not brought by Imposition of hands to beleeve, such Miracles were of another nature, and upon such as beleeved not; as <hi>Acts</hi> 3.5, 6, 7, 8, &amp;c. &amp; 6.8. &amp; 8.6. and all throughout the Gospel and the Acts, for the word saith expresly, that signs are not for them that beleeve, but for them that beleeve not, 1 <hi>Cor.</hi> 14.22. let us therefore be men, and not children in understan<g ref="char:EOLhyphen"/>ding, as there the Apostle exhorts, 1 <hi>Cor.</hi> 14.20. Secondly, we finde the very chief of the Apostles and others practising of it, where the Gospel was already confirmed with signs; and no sign at all is mentio<g ref="char:EOLhyphen"/>ned to follow these impositions, <hi>Acts</hi> 6.6. &amp; 13.3.</p>
+               <p>
+                  <hi>Supposi.</hi> 3. Your third Supposition is, That they did it not without an immediate revelation, and there is no immediate Revelation men<g ref="char:EOLhyphen"/>tioned in any place for doing it, for <hi>Acts</hi> 6. it is upon a disorder of the Church it was first propounded, and when the Apostles sayings pleased the multitude, then it was done, <hi>Acts</hi> 8. it was when the Apostles had heard that <hi>Samaria</hi> had received the Gospel, then they sent <hi>Peter</hi> and <hi>John,</hi> Acts 19. it was when the <hi>Ephesians</hi> knew not whether there were a Holy Ghost or no, and being not Baptised into the name of Jesus, then they were both Baptised, and had imposition of hands; yea in <hi>Acts</hi> 13.3. which is the most likely a revelation of any, there is none for Im<g ref="char:EOLhyphen"/>position of hands, but for separating <hi>Paul</hi> and <hi>Barnabas,</hi> &amp;c.</p>
+               <p>
+                  <hi>Supposi.</hi> 4. You suppose no written word, when as above nine or ten written words lye idle, and are of no use nor meaning for want of this practise, and better it were they were blotted out of your Books, than to continue records against your disobedience, as <hi>Acts</hi> 2.41. &amp; 14 23. &amp; 6.6. &amp; 8.17. &amp; 13.3. &amp; 19.6. &amp; 1 <hi>Tim.</hi> 3. &amp; 4.14. 2 <hi>Tim.</hi> 1.6. <hi>Tit.</hi> 1. added to the Church 42. Apostles; doctrin <hi>Heb.</hi> 6.2. 1 <hi>Tim.</hi> 4.14. &amp; 5.22. and multitudes of places already mentioned.</p>
+               <p>
+                  <hi>Supposi.</hi> 5. Whereas you suppose it therefore a laying again of the foundation, we cannot but look upon it, as a taking away a foundation, and depriving your selves of what you never had, and comes under the danger of 2 <hi>Thess.</hi> 2.8. where ignorance (which opposeth Doctrin) and Disobedience (which opposeth Commands) are both together pu<g ref="char:EOLhyphen"/>nished with vengeance in flaming fire; therefore the counsil of <hi>Gamaliel</hi>
+                  <pb n="22" facs="tcp:118299:14"/> as very good, <hi>Lest we be found fighters against God,</hi> and so run the Judgement of <hi>Heb.</hi> 2.3. &amp; 10.28.27. &amp; 12.25. But I pray for, and desire with much longing, yea I hope it will be otherwise with you, which the Lord God our heavenly Father grant, through Jesus Christ. Amen.</p>
+               <p>
+                  <hi>Dr. Ch.</hi> answer to <hi>C. K.</hi> paper being thus read, <hi>C. K.</hi> replied, That he sent not in his Paper as a full answer to the thing in question, but as an occasion of further debate. And <hi>Dr. Ch.</hi> having urged, That with<g ref="char:EOLhyphen"/>out the practise of laying on of hands there was no use of <hi>Heb.</hi> 6.2. <hi>C. K.</hi> replied, That it was for the confirmation of the Gospel, and in<g ref="char:EOLhyphen"/>deed the result of all the discourse that followed might be summed up in<g ref="char:EOLhyphen"/>to these two assertions.</p>
+               <p n="1">1 On <hi>Capt. K.</hi> side, That it was only for the confirmation of the Gospel.</p>
+               <p n="2">2 <hi>D. Ch.</hi> Assertion was, That laying on of hands was a precept of Christ, to appropriate the prayers of the Ch. to the person prayed for, For <hi>C. K.</hi> proofs, <hi>Heb.</hi> 2.3, 4. <hi>Dr. Ch.</hi> were, <hi>Acts</hi> 8.17. &amp; 13.3. &amp;c. 6.6. <hi>C. K.</hi> offered three things to make <hi>D. Ch.</hi> assertion invalid, one was, That Doctrin did not infer practise.</p>
+               <p>Because that under the doctrin of Baptism sufferings were contained, yet men must not willingly go and expose themselves to suffering, and Martyrdom. 2. That gifts are not now given by prayer as then they were; and 3. That <hi>Acts</hi> 8. <hi>Peter</hi> and <hi>John</hi> were sent after the preach<g ref="char:EOLhyphen"/>ing of <hi>Philip</hi> to confirm the Gospel to the <hi>Samaritans,</hi> and <hi>Paul,</hi> after <hi>Johns</hi> preaching, to confirm it to the <hi>Ephesians,</hi> Act. 19.</p>
+               <p>But <hi>Dr. Ch.</hi> took off his first Argument by daily experience, that there was no need to seek after Sufferings; and secondly by Scripture, for that all that would live godly shall suffer persecution, 2 <hi>Tim.</hi> 3.12. <hi>Heb.</hi> 12.8. &amp; 1 <hi>Pet.</hi> 2.21, &amp; 4.12.</p>
+               <p n="2">2 That prayers certainly were not without gifts, unlesse the prayers were not in faith; as for the particular gift of Tongues it is not needful, for being all of one Tongue, it were now Barbarism to speak with many unknown Tongues, 1 <hi>Cor.</hi> 14.11. besides that, Tongues are for a sigh, a judgement, not to those that beleeve, but to those that beleeve not vers. 22. for even the very gift of Tongues was not that the Apo<g ref="char:EOLhyphen"/>stles might speak in unknown phrases, but in a Language well known to the Auditory, <hi>Acts</hi> 2.8, 11. and the <hi>Corinthians</hi> are reproved all along that Chapter for this carnal ambition of Tongues, for the Holy
+<pb n="23" facs="tcp:118299:14"/> Ghost giveth not gifts but to edification, but for such gifts of the Holy Ghost as the Holy Ghost mentioneth <hi>Rom.</hi> 12. &amp; 1 <hi>Cor.</hi> 12. we have them by prayer, and faith, and humility, and love, and joy in the Holy Ghost, are encreased by Prayer, and by the Spirit we are all led into what truth we have, and are led into all truth as we have need, yea all prayers that are made are for the Holy Ghost, and the Holy Ghost is promised us, <hi>Luk.</hi> 11.13. without whith we are none of Christs, <hi>Rom.</hi> 8.9. but reprobates, 2 <hi>Cor.</hi> 13.5. yea and we have the gift of Tongues so farre as it is good and perfect, <hi>For every good and perfect gift co<g ref="char:EOLhyphen"/>meth from above,</hi> Ja. 1.17. and every one that studieth attaineth not to Tongues, nor can every man boast of the Holy Ghost that doth Mi<g ref="char:EOLhyphen"/>racles, since Christ will not know some of them, <hi>Mat.</hi> 7.22, 23. and it is given to false Prophets, and the Beast to work Miracles, <hi>Mat.</hi> 24.2 2 <hi>Thess.</hi> 2.9. &amp; 19, 20. <hi>Rev.</hi> 13.13.16.19. Now to come in par<g ref="char:EOLhyphen"/>ticular to see whether <hi>Acts</hi> 8. <hi>Acts</hi> 19. make for <hi>C. K.</hi> or <hi>Dr. Ch.</hi> (be<g ref="char:EOLhyphen"/>ing alleged by both) In the first place, If imposition of hands were for confirmation of the Gospel, then never more need to be practised than now, wherein there is so much doubting, yea so much opposing of truth, and so little faith; but to the places quoted, <hi>Acts</hi> 8. it appear<g ref="char:EOLhyphen"/>eth they were confirmed in the Gospel before, for they beleeved, and were Baptized, both men and women, <hi>ver.</hi> 12. and had not neglected the great Salvation of Christ, though preached but by a Deacon, <hi>Acts</hi> 6.5. an Evangelist, <hi>Acts</hi> 21.8. not a Foundation-layer (if none but Apostles were Foundation-layers) or Writers, or Scripturers, yet God confirmed his Doctrin by Miracles of divers kinds, <hi>vers.</hi> 5, 6, 7, 8. so that this end of Miracles from <hi>Heb.</hi> 2.4. is clearly taken off before the imposition of hands came.</p>
+               <p>But on the other side, that they were sent from the Church at <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> that they prayed for them, that by laying on of hands they did appropriate their prayer, and signifie whom they prayed for, is appa<g ref="char:EOLhyphen"/>rent from the Text, and that on whomsoever they layed their hands they received the Holy Ghost, <hi>vers.</hi> 14, 15, 17. so likewise <hi>Acts</hi> 19. they were already confirmed in the Gospel, and were Baptised into the name of Jesus, <hi>vers.</hi> 5. before they received the Holy Ghost, <hi>vers.</hi> 6. and surely <hi>Paul</hi> did not neglect prayer (which was mentioned to bee practised in all other places of laying on of hands) before he layed on his; so in <hi>Acts</hi> 6.6. there was no confirmation of the Gospel, nor so much as a Miracle, and yet there was the appropriating of the benefit
+<pb n="24" facs="tcp:118299:15"/> of the prayer to the persons prayed for; but then <hi>C. K.</hi> allowed Impo<g ref="char:EOLhyphen"/>sition of hands to Officers, did he not then (as was said by Mr. <hi>Willis,</hi>) contradict himself, when he would allow no practise but a bare Notio<g ref="char:EOLhyphen"/>nal doctrin?</p>
+               <p n="1">1 So that it was very evident, that Laying on of hands was not for confirmation of the Gospel, in regard there was no laying on of hands any where, but where the Gospel was already confirmed by preaching, and sometime by Miracles, and beleeved and obeyed.</p>
+               <p>But it was apparent, that it was an appropriating of the benefit of the prayers to the persons prayed for, in regard that hands were layed on all those that were prayed for.</p>
+               <p n="2">2 It was apparent by <hi>Capt. K.</hi> confession, that it is still a practise as well as a Doctrin, since he allows it to Officers, and then how he will sever it from all, unlesse by the rule of <hi>Diotrephes,</hi> 3 <hi>Jo.</hi> 3. we know not.</p>
+               <p n="3">3 It is apparent, That the Apostles only were not Layers on of hands (which <hi>C. K.</hi> infers, under the notion of Foundation-layers, and Foundation-confirmers) in that the <hi>Ephesians,</hi> Acts 13. the Presbytery, 1 <hi>Tim.</hi> 4.14. layed on hands; and <hi>Timothy</hi> himself is advised, 1 <hi>Tim.</hi> 5. and the Elders of the Church, <hi>Ja.</hi> 5. about laying on of hands, and it is inlarged in generall to beleevers, <hi>Mar.</hi> 16.18.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
